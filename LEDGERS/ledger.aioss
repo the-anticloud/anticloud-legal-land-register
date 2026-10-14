@@ -1,0 +1,9 @@
+# AIOSS ledger v1
+# project: LEGAL_TECH/LEGAL_LAND_REGISTER
+# records: 5
+# head: 4515606a8433a2c6c828a1383d759a587ffa9bdb3b0d08d561cf1f07f5cecf85
+{"digest": "a11a179a789c7ae47f7a33c1819a184e73b2810bb88e8df79b6bc9bedc70e1cd", "kind": "bench-report", "path": "BENCH.json", "payload_sha3": "e3d37c10d319ab0be8578b3ab78f243e4847820178ee74ed55976a57a797d1b5", "prev": "5a5a9db5fb708ae61804306200e7a9e31853dde596c5f14d2303d4349fe14b2d", "seq": 0, "ts": "2026-10-09T05:53:16Z"}
+{"digest": "d0aad550dff7b3bb4abfe426130a8064acf18f380cf27848e532a96572a43ada", "kind": "result-register", "path": "ISOLATED_LAB_RESULTS/03_Result_Register.md", "payload_sha3": "c87efac16179ad58a9ae5858cb2dcb7259fad3da8cce901725b0b55df9a6c506", "prev": "a11a179a789c7ae47f7a33c1819a184e73b2810bb88e8df79b6bc9bedc70e1cd", "seq": 1, "ts": "2026-10-09T05:53:16Z"}
+{"digest": "d52c7688b68b5e0d09ce24f32f5216592db46126b4b20f00dab4e4f0680006ef", "kind": "readme", "path": "README.md", "payload_sha3": "c1f7da4cf91ee1fc24504aa428429fcc344248630b43ce82df0c54181007832e", "prev": "d0aad550dff7b3bb4abfe426130a8064acf18f380cf27848e532a96572a43ada", "seq": 2, "ts": "2026-10-09T05:53:16Z"}
+{"digest": "beab52332a80ed55ab1e263008975f0abeba062931854409f253b9f4e444cd80", "kind": "licence", "path": "ANTICOMMONS_LICENSE.md", "payload_sha3": "2e38babf12084bbefe8506fb1deee9119f91c5a963911aff8486e69ce84bcfe0", "prev": "d52c7688b68b5e0d09ce24f32f5216592db46126b4b20f00dab4e4f0680006ef", "seq": 3, "ts": "2026-10-09T05:53:16Z"}
+{"digest": "4515606a8433a2c6c828a1383d759a587ffa9bdb3b0d08d561cf1f07f5cecf85", "kind": "notice", "path": "NOTICE", "payload_sha3": "d9bbdfca586c32659346f5f27d39da5c6a43ca99604e418b2e9dc9f6a65a6a7d", "prev": "beab52332a80ed55ab1e263008975f0abeba062931854409f253b9f4e444cd80", "seq": 4, "ts": "2026-10-09T05:53:16Z"}
