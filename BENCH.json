@@ -540,7 +540,11 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "doc_only": true
+   "url": "https://github.com/bharathwajverse/law-loops-legal-platform",
+   "head": "0b53278d5d3a42e5871753f114f089bc2c741e20",
+   "branch": "",
+   "sha_verified_from": "permissive resolve 2026-10-16: MIT/Apache genre match",
+   "previous_upstream": ""
   }
  }
 }
